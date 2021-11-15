@@ -1,0 +1,11 @@
+{
+  "name": "Prerender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bolawen/Prerender.git",
+  "author": "bolawen <335303383@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prerender": "^5.16.1"
+  }
+}
